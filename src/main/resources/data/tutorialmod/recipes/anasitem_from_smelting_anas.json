@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "anasitem",
+  "ingredient": {
+    "item": "tutorialmod:anas"
+  },
+  "result": "tutorialmod:anasitem"
+}

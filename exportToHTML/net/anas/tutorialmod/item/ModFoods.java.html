@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>ModFoods.java</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.s0 { color: #cc7832;}
+.s1 { color: #a9b7c6;}
+.s2 { color: #6897bb;}
+</style>
+</head>
+<body bgcolor="#2b2b2b">
+<table CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#606060" >
+<tr><td><center>
+<font face="Arial, Helvetica" color="#000000">
+ModFoods.java</font>
+</center></td></tr></table>
+<pre><span class="s0">package </span><span class="s1">net.anas.tutorialmod.item</span><span class="s0">;</span>
+
+<span class="s0">import </span><span class="s1">net.minecraft.world.effect.MobEffectInstance</span><span class="s0">;</span>
+<span class="s0">import </span><span class="s1">net.minecraft.world.effect.MobEffects</span><span class="s0">;</span>
+<span class="s0">import </span><span class="s1">net.minecraft.world.food.FoodProperties</span><span class="s0">;</span>
+
+<span class="s0">public class </span><span class="s1">ModFoods {</span>
+    <span class="s0">public static final </span><span class="s1">FoodProperties STRAWBERRY = </span><span class="s0">new </span><span class="s1">FoodProperties.Builder().nutrition(</span><span class="s2">2</span><span class="s1">).fast()</span>
+            <span class="s1">.saturationMod(</span><span class="s2">0.2f</span><span class="s1">).effect(() -&gt; </span><span class="s0">new </span><span class="s1">MobEffectInstance(MobEffects.INVISIBILITY</span><span class="s0">, </span><span class="s2">1999999999</span><span class="s1">)</span><span class="s0">, </span><span class="s2">0.9f</span><span class="s1">).build()</span><span class="s0">;</span>
+    <span class="s0">public static final </span><span class="s1">FoodProperties POTION_OF_SPEED = </span><span class="s0">new </span><span class="s1">FoodProperties.Builder().nutrition(</span><span class="s2">2</span><span class="s1">).fast()</span>
+            <span class="s1">.saturationMod(</span><span class="s2">0.2f</span><span class="s1">).effect(() -&gt; </span><span class="s0">new </span><span class="s1">MobEffectInstance(MobEffects.MOVEMENT_SPEED</span><span class="s0">, </span><span class="s2">199999999</span><span class="s1">)</span><span class="s0">,</span><span class="s2">0.9f</span><span class="s1">).build()</span><span class="s0">;</span>
+
+<span class="s1">}</span>
+</pre>
+</body>
+</html>

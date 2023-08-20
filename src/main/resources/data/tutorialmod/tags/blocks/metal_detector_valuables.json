@@ -1,0 +1,9 @@
+{
+  "values": [
+    "tutorialmod:anasitem_ore",
+    "tutorialmod:nether_anasitem_ore",
+    "tutorialmod:end_stone_anasitem_ore",
+    "tutorialmod:deep_slate_anasitem_ore",
+    "#forge:ores"
+  ]
+}

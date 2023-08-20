@@ -1,0 +1,36 @@
+{
+  "item.tutorialmod.anasitem": "Anas Diamond",
+  "item.tutorialmod.anas": "Anas",
+
+  "item.tutorialmod.metal_detector": "Metal Detector",
+  "item.tutorialmod.strawberry": "Strawberry",
+  "item.tutorialmod.potion_of_fire_resistance": "Fire Shield",
+  "item.tutorialmod.anas_blade": "Anas Blade",
+  "item.tutorialmod.anas_axe": "Anas Axe",
+  "item.tutorialmod.anas_sword": "Anas Sword",
+  "item.tutorialmod.anas_pickaxe": "Anas Pickaxe",
+  "item.tutorialmod.anas_op_sword": "ANAS OP SWORD",
+  "item.tutorialmod.anas_op_pickaxe": "ANAS OP PICKAXE",
+  "item.tutorialmod.anas_op_axe": "ANAS OP AXE",
+  "item.tutorialmod.anas_op_shovel": "ANAS OP SHOVEL",
+  "item.tutorialmod.anas_op_hoe": "ANAS OP HOE",
+  "item.tutorialmod.anas_staff": "ANAS STAFF",
+
+
+  "item.tutorialmod.potion_of_speed": "Potion of SPEED",
+  "item.tutorialmod.pine_cone": "Pine Cone",
+
+  "block.tutorialmod.anasitem_block": "Block of Anasitem",
+  "block.tutorialmod.anas_block": "Block of Anas",
+
+  "block.tutorialmod.anasitem_ore": "Anasitem Ore",
+  "block.tutorialmod.deep_slate_anasitem_ore": "Deep slate AnasitemOre",
+  "block.tutorialmod.end_stone_anasitem_ore": "End stone Anasitem Ore",
+  "block.tutorialmod.nether_anasitem_ore": "Nether Anasitem Ore",
+
+  "block.tutorialmod.sound_block": "Sound Block",
+
+  "tooltip.tutorialmod.metal_detector.tooltip": "Finds valuables underground",
+
+  "creative_tab.tutorial_tab": "Anas Tab"
+}
